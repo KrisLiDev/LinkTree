@@ -27,8 +27,7 @@ A página inclui:
 ```
 KrisLiDev-LinkTree
 │
-├── html
-│   └── index.html
+├── index.html
 │
 ├── css
 │   ├── reset.css
