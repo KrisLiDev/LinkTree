@@ -121,7 +121,7 @@ p {
     margin-top: 30px;
 }
 
-.container img:last-child {
+.gif img:last-child {
     max-width: 60px;
     margin-top: 30px;
     opacity: 0.4;
@@ -129,7 +129,7 @@ p {
     transition: 0.3s;
 }
 
-img:last-child:hover {
+.gif img:last-child:hover {
     opacity: 1;
     filter: grayscale(0%);
 }
