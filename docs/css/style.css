@@ -42,6 +42,7 @@ h1 {
     font-size: 1.5rem; 
     margin-bottom: 5px;
     background: linear-gradient(90deg, #fff, var(--neon-glow));
+    background-clip:text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
