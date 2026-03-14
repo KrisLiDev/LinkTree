@@ -129,7 +129,7 @@ p {
     transition: 0.3s;
 }
 
-.container img:last-child:hover {
+img:last-child:hover {
     opacity: 1;
     filter: grayscale(0%);
 }
